@@ -1,0 +1,9 @@
+{
+"name":"modding_test",
+"version":"0.0.1",
+"factorio_version":"0.16",
+"title":"Modding test",
+"author":"spiwn",
+"description":"Just an empty mod to test things",
+"dependencies":["base"]
+}
